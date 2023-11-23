@@ -1,0 +1,5 @@
+https://economipedia.com/definiciones/arbol-de-decision-en-valoracion-de-inversiones.html;
+https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set/;
+https://scikit-learn.org/stable/modules/tree.html;
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html;
+https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv;
